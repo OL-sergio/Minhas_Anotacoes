@@ -13,7 +13,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
-        <item name="background">@color/backagroundEditText</item>
+        <item name="background">@color/backgroundEditText</item>
     </style>
 
     <style name="Theme.Minhas_Anotaçôes.NoActionBar">

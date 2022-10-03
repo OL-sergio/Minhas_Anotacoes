@@ -7,6 +7,6 @@
     <color name="teal_700">#43302A</color>
     <color name="black">#FFFFFFFF</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="backagroundEditText">#FFFCC6</color>
+    <color name="backgroundEditText">#FFFCC6</color>
 
 </resources>

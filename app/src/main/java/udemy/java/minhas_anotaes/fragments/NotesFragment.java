@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
 import udemy.java.minhas_anotaes.databinding.FragmentNotesBinding;
+import udemy.java.minhas_anotaes.preferences.PreferencesNotes;
 
 public class NotesFragment extends Fragment {
 
@@ -27,9 +28,6 @@ public class NotesFragment extends Fragment {
 
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-
-
-
     }
 
     @Override
